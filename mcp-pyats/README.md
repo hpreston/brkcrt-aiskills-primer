@@ -1,5 +1,7 @@
 # MCP pyATS Network Automation Tool
 
+> **Note:** This documentation was generated with the assistance of Generative AI.
+
 A Model Context Protocol (MCP) server that integrates pyATS for network device automation, designed as a learning primer for network engineers preparing for CCNP-level certifications and exploring AI capabilities in network automation.
 
 ## 🎯 Overview

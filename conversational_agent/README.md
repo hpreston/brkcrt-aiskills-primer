@@ -1,5 +1,7 @@
 # Conversational Agent Example
 
+> **Note:** This documentation was generated with the assistance of Generative AI.
+
 A simple conversational agent built with Python and LangChain, designed as a learning primer for network, network automation, and infrastructure engineers exploring AI capabilities.
 
 ## 🎯 Overview
